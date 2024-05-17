@@ -5,7 +5,7 @@
 .lo{
     background: aquamarine;
 }
-=======
+
 @import url('https://fonts.googleapis.com/css2?family=Sedan:ital@0;1&display=swap');
 
 body{
@@ -28,7 +28,7 @@ body{
 }
 table{
     border-radius: 30px;
-    font-size: 100px;
+    font-size: 40px;
     padding: 10px;
     
 
