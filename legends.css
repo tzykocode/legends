@@ -75,7 +75,7 @@ img{
 #ppp{
     width: 400px;
     height: 400px;
-
+    border-radius: 50px;
 }
 #nnnn{
     width: 400px;
@@ -116,6 +116,10 @@ img{
 }
 #pss{
     
+
+}
+#lloki{
+    border-radius: 50px;
 
 }
 
